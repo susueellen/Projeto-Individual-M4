@@ -10,3 +10,6 @@
 <h4>⇩⇩ Aqui a idealização do modelo do curso da resilia </h4>
 
 
+<div align="left">
+  <img width="80%" src="https://github.com/susueellen/Projeto-Individual-M4/blob/main/C%C3%B3pia%20do%20Diagrama%20sem%20nome.drawio.png" />
+</div>
