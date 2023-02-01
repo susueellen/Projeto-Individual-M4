@@ -1,5 +1,7 @@
-# Projeto-Individual-M4
-<h1>Desenvolvimento de lógica de banco de dados</h1> 
+# Projeto Individual M4
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0000ff&size=40&center=true&vCenter=true&width=1000&lines=+DESENVOLVIMENTO++DE+LÓGICA+DE+BANCO+DE+DADOS)](https://git.io/typing-svg)
+
+
 <b>• Neste projeto deve-se fazer um mapa de banco de dados, para a idealização de um sistema do curso Resilia, que vai armazenar cursos, turmas, professores e alunos •</b>
 
 
@@ -12,4 +14,12 @@
 
 <div align="left">
   <img width="80%" src="https://github.com/susueellen/Projeto-Individual-M4/blob/main/C%C3%B3pia%20do%20Diagrama%20sem%20nome.drawio.png" />
+</div>
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+<div id="eu" align="center">
+<img src="https://avatars.githubusercontent.com/u/113906994?v=4" width=115><br><sub>  suellen siqueira   <div align="inline_block">
+  <a href="https://www.linkedin.com/in/suellen-siqueira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ </a>
 </div>
